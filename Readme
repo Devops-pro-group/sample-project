@@ -1,9 +1,5 @@
-# Question ===> What have been 
-1-Codecommit ==> github (when developers pushed theirs code in codes codecommit)
-#2# Build 
-2# ECR===> dockerhub
+1- Create a line of development from the main branch
+        git checkout -b  feature1
 
-# EKS, ecs, aws beanstalk , s3 bucket(static website)
-#Grafana in aws 
-# RUM ==> Real user Monitoring 
-# Security hub , security lake, aws config , guarduty, aws inspector, 
+        
+
